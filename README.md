@@ -7,3 +7,6 @@ Your data is at risk please do not forget to backup !
 
 ## Purpose
 This script will remove all apps installed on the phone that are also available through the play store. It will remove some extra Sony "bloatware" and will definitely remove anything Facebook. It will sideload Signal, Firefox, VLC, OsmAnd and Openboard!
+
+## Dependencies
+This requires ADB installed and loaded into the PATH variable, as well as wget, cut and sort!
